@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Apex Rp Server 1",
+    "ip": "127.0.0.1",
+    "port": 7777,
+    "players": "0/100",
+    "status": 1
+  }
+]

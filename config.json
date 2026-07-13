@@ -1,0 +1,8 @@
+{
+  "version": "4.7.1.1",
+  "update_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/apex_rp.apk",
+  "news_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/news.json",
+  "servers_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/servers.json",
+  "status": "online",
+  "message": "Welcome to Apex Rp!"
+}
