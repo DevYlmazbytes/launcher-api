@@ -1,8 +1,35 @@
 {
-  "version": "4.7.1.1",
-  "update_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/apex_rp.apk",
-  "news_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/news.json",
-  "servers_url": "https://raw.githubusercontent.com/ApexRp-Dev/launcher-api/main/servers.json",
-  "status": "online",
-  "message": "Welcome to Apex Rp!"
+  "config_version": 1,
+  "apk": {
+    "version": 732,
+    "str": "1.0.0",
+    "path": "",
+    "auto_update": true,
+    "manual_update": true,
+    "manual_update_url": ""
+  },
+  "urls": {
+    "URL_HOST": "https://igta-online.my-fastdl.com/ONLINERP/prod/files",
+    "URL_UPDATE": "",
+    "URL_NEWS": "news.json",
+    "URL_HELP": "help.json",
+    "URL_ONLINE_API": "https://api.onlinerp.com/v1/servers",
+    "URL_DONATE_API": "",
+    "URL_SITE": "https://raw.githubusercontent.com/manustest534h-dev/havanarp-cdn/main/api/runtime",
+    "URL_VK": "",
+    "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
+    "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
+    "URL_SUPPORT": "https://vk.me/android_client",
+    "URL_TELEGRAM": "https://t.me/onlinerp_channel",
+    "URL_SHOP": "https://gta-mobile.ru/donate"
+  },
+  "msgs": [],
+  "_admin": {
+    "maintenance": {
+      "enabled": false,
+      "title": "السيرفر تحت الصيانة",
+      "text": "نعتذر، صيانة حالياً",
+      "button": "تم"
+    }
+  }
 }
