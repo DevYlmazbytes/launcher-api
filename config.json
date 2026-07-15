@@ -1,35 +1,35 @@
 {
-  "config_version": 1,
-  "apk": {
-    "version": 732,
-    "str": "1.0.0",
-    "path": "",
-    "auto_update": true,
-    "manual_update": true,
-    "manual_update_url": ""
-  },
-  "urls": {
-    "URL_HOST": "https://igta-online.my-fastdl.com/ONLINERP/prod/files",
-    "URL_UPDATE": "",
-    "URL_NEWS": "news.json",
-    "URL_HELP": "help.json",
-    "URL_ONLINE_API": "https://api.onlinerp.com/v1/servers",
-    "URL_DONATE_API": "",
-    "URL_SITE": "https://discord.gg/bt5VcVHHS",
-    "URL_VK": "",
-    "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
-    "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
-    "URL_SUPPORT": "https://vk.me/android_client",
-    "URL_TELEGRAM": "https://t.me/onlinerp_channel",
-    "URL_SHOP": "https://gta-mobile.ru/donate"
-  },
-  "msgs": [],
-  "_admin": {
-    "maintenance": {
-      "enabled": false,
-      "title": "السيرفر تحت الصيانة",
-      "text": "نعتذر، صيانة حالياً",
-      "button": "تم"
+    "config_version": 1,
+    "apk": {
+        "version": 732,
+        "str": "1.0.0",
+        "path": "https://github.com/manustest534h-dev/havanarp/releases/download/v726/HavanaRp.apk",
+        "auto_update": true,
+        "manual_update": true,
+        "manual_update_url": "https://github.com/manustest534h-dev/havanarp/releases/download/v726/HavanaRp.apk"
+    },
+    "urls": {
+        "URL_HOST": "https://igta-online.my-fastdl.com/ONLINERP/prod/files",
+        "URL_UPDATE": "https://cdn.jsdelivr.net/gh/manustest534h-dev/havanarp-cdn@a534b7912b63453341cd86c46df996df646e6f67/api/update/${version}/update_${version}.json",
+        "URL_NEWS": "news.json",
+        "URL_HELP": "help.json",
+        "URL_ONLINE_API": "https://api.onlinerp.com/v1/servers",
+        "URL_DONATE_API": "https://api.gta-mobile.ru/oldAPI/donate_api.php",
+        "URL_SITE": "https://raw.githubusercontent.com/manustest534h-dev/havanarp/main",
+        "URL_VK": "https://vk.com/online_samp",
+        "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
+        "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
+        "URL_SUPPORT": "https://vk.me/android_client",
+        "URL_TELEGRAM": "https://t.me/onlinerp_channel",
+        "URL_SHOP": "https://gta-mobile.ru/donate"
+    },
+    "msgs": [],
+    "_admin": {
+        "maintenance": {
+            "enabled": false,
+            "title": "السيرفر تحت الصيانة",
+            "text": "نعتذر، صيانة حالياً",
+            "button": "تم"
+        }
     }
-  }
 }
