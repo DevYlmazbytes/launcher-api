@@ -9,7 +9,7 @@
         "manual_update_url": "https://github.com/manustest534h-dev/havanarp/releases/download/v726/HavanaRp.apk"
     },
     "urls": {
-        "URL_HOST": "https://www.dropbox.com/scl/fo/ouw6vitfnw1p3en2poou3/AN8BhoH5L1rmqztePzQuidU?rlkey=rgmaonim3szfwgqt8lf3tvcax&st=d66sfr2v&dl=1",
+        "URL_HOST": "https://igta-online.my-fastdl.com/ONLINERP/prod/files",
         "URL_UPDATE": "https://cdn.jsdelivr.net/gh/manustest534h-dev/havanarp-cdn@a534b7912b63453341cd86c46df996df646e6f67/api/update/${version}/update_${version}.json",
         "URL_NEWS": "news.json",
         "URL_HELP": "help.json",
